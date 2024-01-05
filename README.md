@@ -28,9 +28,6 @@ I'm currently exploring various technologies and learning exciting new things. M
 **Education:**
 - B.Tech Cyber Security, New Prince Engineering College
 
-**Work:**
-- [Previous Job/Internship, if applicable]
-
 ## Connect with me 🌐
 
 [LinkedIn](https://www.linkedin.com/in/sri-ram-8413542a2/)
