@@ -31,4 +31,4 @@ I'm currently exploring various technologies and learning exciting new things. M
 ## Connect with me 🌐
 
 [LinkedIn](https://www.linkedin.com/in/sri-ram-8413542a2/)
-[GitHub](htts://github.com/TheRamisNotTaken)
+[GitHub](https://github.com/TheRamisNotTaken)
